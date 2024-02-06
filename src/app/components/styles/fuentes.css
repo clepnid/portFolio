@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'MS Sans Serif';
+    src: local('MS Sans Serif'), url('./../../assets/fonts/dist/ms_sans_serif.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MS Sans Serif Bold';
+    src: local('MS Sans Serif Bold'), url('./../../assets/fonts/dist/ms_sans_serif_bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}

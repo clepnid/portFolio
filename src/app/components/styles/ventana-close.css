@@ -1,0 +1,7 @@
+/* Ajuste del ancho al 80% en dispositivos móviles */
+@media (max-width: 768px) {
+  .WindowComponent {
+      max-width: 80%;
+      min-width: 80%;
+  }
+}

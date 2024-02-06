@@ -1,0 +1,62 @@
+.presentation-container {
+  text-wrap: balance;
+  padding: 20px;
+}
+
+a {
+  font-size: 16px;
+  margin-top: 5px;
+  text-decoration: underline;
+  /* Aplica un subrayado al texto del enlace */
+  color: #007bff;
+  /* Color del texto del enlace (azul por ejemplo) */
+}
+
+a:hover {
+  color: #0056b3;
+  /* Cambia el color del texto al pasar el cursor */
+}
+
+.dev-image {
+  width: 30px;
+  /* Ajusta según el tamaño que desees */
+  height: auto;
+  /* Ajusta según el tamaño que desees */
+  margin-left: 6px;
+  margin-right: 6px;
+  
+  vertical-align: middle;
+}
+
+.name {
+  font-size: 24px;
+  color: #333;
+  margin-top: 12px;
+}
+
+.job-title {
+  font-size: 20px;
+  color: #007bff;
+  font-weight: bold;
+  margin-top: 12px;
+}
+
+.job-type {
+  font-size: 18px;
+  color: #28a745;
+  font-weight: bold;
+  margin-top: 12px;
+}
+
+.type-modulo {
+  font-size: 18px;
+  color: #3d3d3d;
+  font-weight: bold;
+  margin-top: 12px;
+}
+
+.description {
+  font-size: 16px;
+  color: #3d3d3d;
+  margin-top: 5px;
+}
